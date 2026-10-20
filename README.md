@@ -45,6 +45,7 @@ git clone https://github.com/GinyvaXu/ginyva-share.git
 ## 更新记录
 
 - 2026-10-11：仓库建立；收录 super-brainstorm、projectdock-dev 两个技能与 C-Tutor 提示词。
+- 2026-10-20：新增 group-meeting-brainstorm（组会脑暴）技能：多角色、独立子智能体、会前便签、白板、认领/授权、收束。
 
 ## 说明
 
